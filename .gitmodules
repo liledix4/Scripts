@@ -1,0 +1,4 @@
+[submodule "BvS"]
+	path = BvS
+	url = https://github.com/BvSGame/Scripts
+	branch = main
