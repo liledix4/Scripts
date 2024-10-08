@@ -1,6 +1,0 @@
-[submodule "BvS"]
-	path = BvS
-	url = https://github.com/BvSGame/Scripts
-[submodule "BvS_PRIVATE"]
-	path = BvS_PRIVATE
-	url = https://github.com/BvSGame/Scripts_PRIVATE
